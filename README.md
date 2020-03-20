@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Project: Recipe book</title>
+        <title>The Fiery Builder's Recipe Book</title>
         <meta charset="utf-8">
         <style>
             h1 {
@@ -31,7 +31,7 @@
     </head>
     <body>
        
-        <h1 id="Top">Joseph's Recipe Book</h1>
+        <h1 id="Top">Fiery Builder's Recipe Book</h1>
         
         <h2>Contents:</h2>
         
